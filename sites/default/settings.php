@@ -1,8 +1,5 @@
 <?php
 
-echo 123;
-die;
-
 /**
  * Load services definition file.
  */
